@@ -15,42 +15,6 @@ A specialized workflow automation tool designed to streamline operations and cli
 - WhatsApp Business Account
 - API credentials
 
-### Installation
-
-```bash
-git clone https://github.com/ezzasdf/real-estate-app.git
-cd real-estate-app
-npm install
-```
-
-### Configuration
-
-1. Create a `.env` file in the root directory
-2. Add your WhatsApp API credentials:
-   ```
-   WHATSAPP_API_KEY=your_key_here
-   WHATSAPP_PHONE_ID=your_phone_id
-   ```
-
-### Usage
-
-```bash
-npm start
-```
-
-## Project Structure
-
-```
-real-estate-app/
-├── README.md
-├── package.json
-├── src/
-│   ├── index.js
-│   ├── config/
-│   ├── services/
-│   └── utils/
-└── .env.example
-```
 
 ## Technologies Used
 
